@@ -61,3 +61,22 @@
 
 
 }
+
+.search-button {
+    background-color: transparent;
+}
+
+.search {
+    border: 1px solid transparent;
+    background-color: #F1F1F1;
+    border-radius: 25px;
+    min-width: 30%;
+}
+
+.all-search:focus {
+    box-shadow: none ! important;
+}
+
+.search-button {
+    border: 0;
+}
